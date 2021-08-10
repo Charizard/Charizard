@@ -1,9 +1,14 @@
 ### Hi there 👋
 
-I'm from a small town called Salem in the southern part of India (Yes, India, not Oregon). After graduating college in computer science, I joined [@codebrahma](https://github.com/codebrahma), a service based startup where I leared a lot of awesome stuff. Later moved to a product based startup called germ.io (currently re-branded to [@zepel-io](https://github.com/zepel-io)) working in the project management space where I was a full-stack developer building cool new features directly for our customers. Next, I went into a self-discovering spree along with handling a few life problems while doing some freelance work through Upwork. In mid 2019, I moved to Frankfurt :de: to work with the awesome and brilliant folks at [@ClarkSource](https://github.com/ClarkSource) where I got prmoted to Engineering Manager.
+Ich bin Yuvaraja Balamurugan (a.k.a @Charizard)
+
+I'm from a small town called Salem in the southern part of India (Yes, India, not Oregon). After graduating college in computer science, In the beginning of my career I have worked with a service based company and also a product based company developing features. I also freelanced for about 2 years before I moved to Frankfurt :de: to work with the awesome and brilliant folks at [@ClarkSource](https://github.com/ClarkSource) where I got prmoted to Engineering Manager.
+
+Currently, I am exploring the boundries of Engineering Management and learning a lot. 
 
 - 🔭 I’m currently working on How to be a good dad for my beautiful baby boy, Arima :lion: :laughing:
-- 🌱 I’m currently learning React Native
-- 👯 I’m looking to collaborate on Blogging, Teaching, Cooking...
+- 🌱 I’m currently skilling up my leadership abilities.
+- 📚 I’m currently studying part-time MBA.
+- 👯 I’m looking to collaborate on Mentorship, Leadership, Running High-Performance Teams...
 - 😄 Pronouns: he / him
 - ⚡ Fun fact: So much of my childhood time was spent watching / playing Pokémon, I decided to represent myself using my favorite Pokémon, @Charizard.
