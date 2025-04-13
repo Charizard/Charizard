@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-Ich bin Yuvaraja Balamurugan (a.k.a @Charizard)
+I am Yuvaraja Balamurugan (a.k.a @Charizard)
 
-I'm located in Frankfurt :de: and work with the awesome and brilliant folks at [@ClarkSource](https://github.com/ClarkSource).
+I'm a seasoned Engineering Leader with 10+ years of experience in Software Engineering across two different countries. In my recent experience, I lead the Engineering function for 2 product lines spanning three teams with 20 people reporting directly and indirectly to me.
 
 Currently, I am,
 
