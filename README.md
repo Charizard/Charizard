@@ -6,9 +6,9 @@ I’ve led engineering for multiple product lines, managed global teams, and del
 
 Currently, I’m:
 
-🔭 Exploring what it means to be an awesome dad
-🌱 Diving deeper into Agentic AI and engineering leadership
-👯 Open to collaborating on mentorship, leadership, and high-performance teams
-⚡ Fun fact: My GitHub handle is inspired by my favorite Pokémon—Charizard. Because let’s face it: leadership should be bold, fiery, and a little bit fun.
+- 🔭 Exploring what it means to be an awesome dad
+- 🌱 Diving deeper into Agentic AI and engineering leadership
+- 👯 Open to collaborating on mentorship, leadership, and high-performance teams
+- ⚡ Fun fact: My GitHub handle is inspired by my favorite Pokémon—Charizard. Because let’s face it: leadership should be bold, fiery, and a little bit fun.
 
 Let’s build, learn, and grow together.
